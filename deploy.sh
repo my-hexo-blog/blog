@@ -5,5 +5,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:yk2012/yk2012.github.io.git main
+git push -f git@github.com:my-hexo-blog/blog.git main
 cd - 
